@@ -1,4 +1,4 @@
-export const NotFound = () => {
+export const Error404 = () => {
   return (
     <div className="bg-gradient-to-b from-slate-950 to-slate-900 min-h-screen flex items-center justify-center px-4">
       <div className="text-center max-w-2xl">
